@@ -1,5 +1,6 @@
 # 9조 - 테스구조
-![overview-banner](https://github.com/ktb-9/.github/blob/main/profile/back.png?raw=true)
+<img src="https://github.com/ktb-9/.github/blob/main/profile/back.png?raw=true" style="width:100%;" alt="overview-banner">
+
 
 ### 팀 프로젝트 문서
 [![Team Notion](https://img.shields.io/badge/TEAM_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/your-notion-link](https://www.notion.so/goormkdx/23-486a07ff18c341df96842755c9e90933?pvs=4))
