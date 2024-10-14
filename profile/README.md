@@ -46,9 +46,9 @@
 
 <div align="center">
   
-| **🐯Aiden** | **🐱Luna** | 
+| **Kyle** | **Juyeon** | 
 | :------: |  :------: | 
-| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/aiden.png" height=150 width=150> <br/>  [![aiden github](https://img.shields.io/badge/Aiden-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanMulBit)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/luna.png" height=150 width=150> <br/> [![luna github](https://img.shields.io/badge/Luna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoiJiyeon) |
+| <img src="https://github.com/ktb-9/.github/blob/main/profile/image/kyle.png?raw=true" height=150 width=150> <br/>  [![kyle github](https://img.shields.io/badge/kyle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KDK-00)| <img src="https://github.com/ktb-9/.github/blob/main/profile/image/juyeon.png?raw=true" height=150 width=150> <br/> [![juyeon github](https://img.shields.io/badge/juyeon-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juyeonbae) |
 
 </div>
 
