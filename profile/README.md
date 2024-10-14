@@ -86,4 +86,4 @@
 - 스터디는 가능하면 비동기적으로 진행합니다.
 - Github와 Notion을 통해 스터디 내용을 정리합니다.
 
-그 외 더 많은 업무 방식을 알고 싶다면 [여기](https://github.com/ktb-23/collaboration-document)에 정리된 문서들을 통해 확인 가능합니다.
+
