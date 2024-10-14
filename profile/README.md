@@ -19,7 +19,7 @@
   
 | **Hardy** | **Ten** | 
 | :------: |  :------: | 
-| <img src="[https://github.com/ktb-9/.github/blob/main/profile/image/hardy.png?raw=true]" height=150 width=150> <br/>  [![hardy github](https://img.shields.io/badge/Hardy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangyoulsagong)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/mae.png" height=150 width=150> <br/> [![mae github](https://img.shields.io/badge/Mae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardlife0) |
+| <img src="https://github.com/ktb-9/.github/blob/main/profile/image/hardy.png?raw=true" height=150 width=150> <br/>  [![hardy github](https://img.shields.io/badge/Hardy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangyoulsagong)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/mae.png" height=150 width=150> <br/> [![mae github](https://img.shields.io/badge/Mae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardlife0) |
 
 </div>
 
