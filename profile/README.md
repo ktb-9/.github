@@ -13,7 +13,7 @@
 사용 기술 스택
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Spring+Kotlin](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 <div align="center">
   
