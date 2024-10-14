@@ -12,7 +12,7 @@
 
 사용 기술 스택
 
-[![ReactNative](https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![ReactNative](https://img.shields.io/badge/ReactNative-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![SpringKotlin](https://img.shields.io/badge/Spring+Kotlin-000000?style=for-the-badge&logo=spring&logoColor=green)](https://spring.io/)
 
 <div align="center">
