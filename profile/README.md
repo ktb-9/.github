@@ -32,9 +32,9 @@
 
 <div align="center">
   
-| **🦊Sean** | **👓Tony** | 
+| **Zoey** | **Lucy** | 
 | :------: |  :------: | 
-| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/sean.png" height=150 width=150> <br/>  [![seab github](https://img.shields.io/badge/Sean-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/timepresent95)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/tony.png" height=150 width=150> <br/> [![tony github](https://img.shields.io/badge/Tony-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PokingTeemo) |
+| <img src="https://github.com/ktb-9/.github/blob/main/profile/image/zoey.png?raw=true" height=150 width=150> <br/>  [![zoey github](https://img.shields.io/badge/zoey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChoiYoo)| <img src="https://github.com/ktb-9/.github/blob/main/profile/image/lucy.png?raw=true" height=150 width=150> <br/> [![lucy github](https://img.shields.io/badge/lucy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iyxxnjin) |
 
 </div>
 
