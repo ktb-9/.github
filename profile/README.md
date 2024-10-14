@@ -3,7 +3,7 @@
 
 
 ### 팀 프로젝트 문서
-[![Team Notion](https://img.shields.io/badge/TEAM_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/your-notion-link](https://goormkdx.notion.site/9-d30dfb6a9fd64bfdb2f278a0f4965b68))
+[![Team Notion](https://img.shields.io/badge/TEAM_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://goormkdx.notion.site/9-d30dfb6a9fd64bfdb2f278a0f4965b68](https://goormkdx.notion.site/9-d30dfb6a9fd64bfdb2f278a0f4965b68))
 
 ## 파트 구성
 
