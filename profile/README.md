@@ -3,7 +3,7 @@
 
 
 ### 팀 프로젝트 문서
-[![Team Notion](https://img.shields.io/badge/TEAM_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/your-notion-link](https://www.notion.so/goormkdx/23-486a07ff18c341df96842755c9e90933?pvs=4))
+[![Team Notion](https://img.shields.io/badge/TEAM_Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/your-notion-link](https://goormkdx.notion.site/9-d30dfb6a9fd64bfdb2f278a0f4965b68))
 
 ## 파트 구성
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   
-| **🎃Hardy** | **🐷Mae** | 
+| **Hardy** | **Ten** | 
 | :------: |  :------: | 
 | <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/hardy.png" height=150 width=150> <br/>  [![hardy github](https://img.shields.io/badge/Hardy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kwangyoulsagong)| <img src="https://raw.githubusercontent.com/ktb-23/.github/main/profile/mae.png" height=150 width=150> <br/> [![mae github](https://img.shields.io/badge/Mae-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardlife0) |
 
