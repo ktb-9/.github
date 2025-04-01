@@ -1,12 +1,11 @@
 # 9조 - 테스구조
-<img src="https://github.com/ktb-9/.github/blob/main/profile/back.png?raw=true" style="width:100%;" alt="overview-banner">
 
 
 <div align="center">
 
 <h1>Ripple Trip</h1>
 
-<img src="https://reflective.site/assets/logo-Ci6SaETG.svg" alt="Reflective 로고">
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/logo.png" alt="Reflective 로고">
 
 <h3> "블록 에디터 기반으로 회고를 작성할 수 있는 블로그 서비스" </h3>
 
