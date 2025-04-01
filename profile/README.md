@@ -107,11 +107,23 @@ DB 기반의 소비 패턴 분석을 통해 지출 항목에 대한 세부 계�
 <br />
 
 ## 프로젝트 실행 방법
-
+### APP
 ```bash
-pnpm install
+npm install
 
-pnpm dev
+npm run ios 
+```
+### Web
+```bash
+npm install
+
+npm run dev 
+```
+### Server
+```bash
+npm install
+
+npm run dev 
 ```
 
 <br />
