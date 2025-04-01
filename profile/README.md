@@ -116,7 +116,7 @@ pnpm dev
 
 # ⚒️ 기술 스택
 
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/skills.png" height="500" alt="기술스택 이미지"/>
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B3%E1%84%90%E1%85%A2%E1%86%A8.png" height="500" alt="기술스택 이미지"/>
 
 ![Reflective 시스템 아키텍처](https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5.png)
 
