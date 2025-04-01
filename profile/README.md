@@ -63,66 +63,44 @@
 
 ## 주요 기능 설명
 
-( gif 로딩이 느릴 수 있습니다🥹 조금만 기다려주세요 )
+### [ 공동 일정 ]
+ <img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%80%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png" alt="블록에디터">
+동행인 추가 버튼을 통해 링크를 공유하고, 동행자들과 함께 실시간으로 가능한 날짜를 조율하여 최종 여행 날짜를 확정합니다.
 
-### [ 글 작성 ]
+### [ 여행 일정 ]
 
-<table>
-  <tr>
-    <td><img src="https://assetkungya.s3.ap-northeast-2.amazonaws.com/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC-3.gif" alt="블록 에디터 1" /></td>
-    <td><img src="https://assetkungya.s3.ap-northeast-2.amazonaws.com/%E1%84%82%E1%85%A1%E1%84%8B%E1%85%B4-%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A1%E1%86%BC-4.gif" alt="블록 에디터 2" /></td>
-  </tr>
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%20%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%86%BC.png" alt="글 작성 이미지">
 
-  <img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EB%B8%94%EB%A1%9D%EC%97%90%EB%94%94%ED%84%B0.gif" alt="블록에디터">
-</table
+여행 일정은 날짜별로 자유롭게 작성할 수 있으며, 원하는 장소와 시간을 손쉽게 추가할 수 있습니다. 
+카카오 키워드 검색을 통해 간편하게 장소를 검색하고, 애플 지도 연동으로 편의성을 강화했습니다. 
+생성된 일정은 그룹 멤버들과 공유하여 함께 여행 계획을 조율할 수 있습니다.
 
-#### 1. **블록 기반 편집**
+### [ 가계부 ]
 
-- 각 콘텐츠(문단, 이미지, 목록 등)를 블록 단위로 분리하여, 사용자가 자유롭게 콘텐츠를 삽입, 이동, 삭제할 수 있습니다.
-- 이를 통해 직관적이고 유연한 글 작성이 가능합니다.
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%80%E1%85%A1%E1%84%80%E1%85%A8%E1%84%87%E1%85%AE.png" alt="메인 페이지">
 
-#### 2. **실시간 미리보기**
+여행 중 발생한 지출을 간편하게 가계부에 등록할 수 있습니다. 
+지출명, 일자, 지출액을 입력한 후 결제자와 공동 지출자를 선택할 수 있습니다. 
+공동 지출자로 선택된 동행인의 개인 가계부에 자동으로 반영되며, 
+정산 금액과 상대방의 지출 내역이 명확히 표시되어 편리하게 정산을 진행할 수 있습니다.
 
-- 작성 중인 콘텐츠를 실시간으로 미리 볼 수 있어, 포스트의 레이아웃을 즉시 확인하고 수정할 수 있습니다.
-- 글 작성과 동시에 포스트의 최종 형태를 시각적으로 확인할 수 있어 효율적인 작성이 가능합니다.
+### [ 여행 요약  ]
 
-#### 3. **다양한 블록 타입**
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%E1%86%BC%20%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%A3%E1%86%A8.png" alt="실시간 알림 시스템"/>
 
-- 텍스트, 이미지, 코드 블록, 목록 등 다양한 블록 타입을 제공하여, 사용자는 포스트의 내용에 맞는 다양한 형식으로 글을 작성할 수 있습니다.
-- 또한, 차트를 삽입할 수 있는 기능을 제공하여, 데이터를 시각적으로 표현할 수 있습니다.
+여행 종료 버튼을 클릭하면 여행 전체 요약을 확인할 수 있습니다. 
+여기에는 여행 일정, 가계부, 소비 패턴 분석이 포함됩니다. 
+DB 기반의 소비 패턴 분석을 통해 지출 항목에 대한 세부 계산이 가능하며, 사용자는 자신의 소비 성향을 명확히 파악할 수 있습니다. 
+이를 통해 종합적인 여행 활동을 한눈에 확인하고, 향후 여행에 대한 유용한 인사이트를 얻을 수 있습니다.
 
-### [ 글 조회 ]
+### [ 사진 편집 ]
 
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EA%B8%80%EC%A1%B0%ED%9A%8C.gif" alt="글 작성 이미지">
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB%20%E1%84%91%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%B5%E1%86%B8.png" alt="글 검색">
 
-- 글은 블록 타입 형식으로 적용된 글을 볼 수 있습니다.
-- 헤딩(Heading) 내비게이션을 통해 해당 헤딩으로 라우팅 지원합니다.
-
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EB%8C%93%EA%B8%80%20%EB%8C%80%EB%8C%93%EA%B8%80.gif" alt="글 커스텀 이미지">
-
-- 해당 게시물에 댓글을 달 수 있습니다.
-- 답글도 지원해서 커뮤니티 활성화를 할 수 있습니다.
-
-### [ 메인 페이지 ]
-
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80.gif" alt="메인 페이지">
-
-- Top 8 인기 게시물 최신 트렌드로 애니메이션 반영했습니다.
-- 최근 게시물들을 좋아요 순으로 탑 3을 먼저 표시하고,
-- 그 이후로는 최신 날짜 기준으로 정렬하는 방식으로 반영했습니다.
-
-### [ 실시간 알림 시스템 ]
-
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EC%95%8C%EB%A6%BC.gif" alt="실시간 알림 시스템"/>
-
-- 실시간 알림을 통한 댓글, 좋아요, 즐겨찾기 이벤트 발생시 즉시 전송했습니다.
-
-### [ 글 검색 ]
-
-<img src="https://github.com/kwangyoulsagong/Reflective/blob/main/readmeAssets/%EA%B2%80%EC%83%89.gif" alt="글 검색">
-
-- 검색은 제목 또는 작성자로 검색할 수 있습니다.
-- 검색해서 해당 블로그로 이동할 수 있습니다..
+여행 중 찍은 사진에서 많은 사람들이 있는 부분을 제거할 수 있는 객체 제거 기능이 제공됩니다. 
+또한, 브러쉬 도구와 사각형 도구를 사용해 사진의 특정 영역을 선택하여 삭제 또는 프롬프트를 이용해 자동으로 객체를 생성할 수 있습니다.
+업스케일링 기능을 통해 사진을 고해상도로 변환할 수 있는 기능도 제공됩니다. 
+이를 통해 사용자는 더욱 편리하게 사진을 수정하고 향상시킬 수 있습니다.
 
 <br />
 
