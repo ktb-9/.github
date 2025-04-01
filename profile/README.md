@@ -5,7 +5,7 @@
 
 <h1>Ripple Trip</h1>
 
-<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/logo.png" style="height:100" alt="Reflective 로고">
+<img src="https://github.com/ktb-9/.github/blob/main/readMeAsset/logo.png" style="height:30" alt="Reflective 로고">
 
 <h3> "블록 에디터 기반으로 회고를 작성할 수 있는 블로그 서비스" </h3>
 
