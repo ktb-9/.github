@@ -146,6 +146,7 @@ npm run dev
 
 먼저 아래는 이미지 편집 기능 과정입니다.
 - [캔버스-기반-다중-레이어-이미지-편집기-구현하기](https://velog.io/@tkrhdrhkdduf/%EC%BA%94%EB%B2%84%EC%8A%A4-%EA%B8%B0%EB%B0%98-%EB%8B%A4%EC%A4%91-%EB%A0%88%EC%9D%B4%EC%96%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91%EA%B8%B0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [여행 비용 정산 기능 개발 이야기](https://velog.io/@tkrhdrhkdduf/%EC%97%AC%ED%96%89-%EB%B9%84%EC%9A%A9-%EC%A0%95%EC%82%B0-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 <br />
 
